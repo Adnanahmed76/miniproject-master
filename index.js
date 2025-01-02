@@ -1,2 +1,2 @@
 console.log("testing sever");
-console.
+console.log
